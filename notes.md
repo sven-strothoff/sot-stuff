@@ -110,34 +110,40 @@ Raids können parallel zu WE stattfinden und werden von Spielern gestartet, beko
 
 Emergent Encounters können jederzeit stattfinden, auch mehrere gleichzeitig, und sind unabhängig von World Events und Raids.
 
-### Skeleton Fort (green-eyed skull) [WE]
+### World Events
+
+#### Skeleton Fort (green-eyed skull) [WE]
 
 Open World Event. Erscheint über einer der Fortress Islands. Bleibt etwa 30 Minuten, falls nicht gestört. Zwölf Skeleton-Wellen, dann drei Skeleton-Captain-Wellen.
 
-### Fort of Fortune (red-eyed cracked skull) [WE]
+#### Fort of Fortune (red-eyed cracked skull) [WE]
 
 Wie Skeleton Fort, nur schwieriger.
 
-### Skeleton Fleet (green ship) [WE]
+#### Skeleton Fleet (green ship) [WE]
 
 Verschwindet nach etwa 30 Minuten, falls nicht aktiviert. Drei Wellen à 1-2 Skeleton Ships, in der letzten Welle gibt's einen Skeleton Captain, dessen Galleone versenkt werden muss.
 
-### Ashen Winds (red tornado) [WE]
+#### Ashen Winds (red tornado) [WE]
 
 Ein Ritual durch Ashen Skeletons ruft einen (von vier) Ashen Lords. Ashen Lords sind wie Skeleton Lords, aber mit Feuer-Thematik.
 
-### Kraken
+#### Kraken
 
 Teil des WE-Kraken-Zyklus. Greift ein random Schiff auf dem Server an. Loot soll die Wahrscheinlichkeit erhöhen. Abhängig von der eigenen Schiffsgröße müssen mehr oder weniger Tentakel getötet werden (2-3, 5-6, 7-8), damit der Kraken sich zurückzieht. Oder man entkommt aus dem schwarzen Wasser.
 
-### Fort of the Damned (red-eyed skull) [Raid]
+### Raids
+
+#### Fort of the Damned (red-eyed skull) [Raid]
 
 Kann jederzeit (und muss) von Spielern aktiviert werden. Zur Aktivierung braucht es alle sechs Flames of Fate und einen Ritual Skull. Während der Raid läuft, gibts Cloud Indication.
 
-### Skeleton Ship [EE]
+### Emergent Encounters
+
+#### Skeleton Ship [EE]
 
 Gibts als Sloop oder Galleon. Spawnen randomly, fahren durch die Gegend, sind gut zu erkennen. Lassen einen häufig in Ruhe, solange man nicht zu nahe kommt oder angreift. Können kein Wasser eimern!
 
-### Megalodon [EE]
+#### Megalodon [EE]
 
 Tauchen random auf. Gibt fünf unterschiedliche Typen. Leben ist schiffsabhängig. Loot wie bei Skeleton Ships.
