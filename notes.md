@@ -77,24 +77,27 @@ Eine bestimmte TT soll zusätzliches Gebiet im Nordosten freischalten.
 
 ## Quests und Voyages (PvE)
 
-Quests sind die Elemente im Quest Radial. Sie können einzeln am Quest Board (X only) genommen, als (Teil von) Voyages bei den TC gekauft, als Loot gefunden oder im Falle von Tall Tales bei entsprechenden NPC gestartet werden. Es gibt folgende Typen:
+Quests sind die Elemente im Quest Radial. Sie können einzeln am Quest Board (X only) genommen, als (Teil von) Voyages bei den TC gekauft, als Loot gefunden oder im Falle von Tall Tales bei entsprechenden NPC gestartet werden. Es gibt folgende Typen, Bezugsmöglichkeiten in eckigen Klammern.
 * X marks the spot Maps [GH]
 * Riddle Maps [GH]
 * Torn Maps (Wayfinder) [GH]
     * kann zu Vaults führen!
 * Bounty Parchments (Skeleton Captains) [OS]
-* Ghost Ship Quests [OS|ab Promotion 25]
+* Ghost Ship Quests [OS]
+    * erst ab Promotion 25
 * Merchant Contracts [MA]
 * Cargo Contracts [MA]
-* Secret of the Sea [aus Flaschen]
+* Secret of the Sea [Loot]
 * Tale Books [TT]
 
 Voyages sind Quest-Sammlungen. Es gibt folgende Typen:
 
 * Normale Voyages [TC]
 * Captain's Voyages (nur für Captains) [Shipwrigt]
-* Emissary Quests (nur für Emissarys) [TC|ab Grade V]
-* Mercenary Voyages [BR|time-limited]
+* Emissary Quests (nur für Emissarys) [TC]
+    * ab Emissary Grade V
+* Mercenary Voyages [BR]
+    * bis auf eine zeitlich begrenzt verfügbar
 
 ## Battle for the Sea of Thieves (PvP)
 
@@ -112,19 +115,19 @@ Emergent Encounters können jederzeit stattfinden, auch mehrere gleichzeitig, un
 
 ### World Events
 
-#### Skeleton Fort (green-eyed skull) [WE]
+#### Skeleton Fort (green-eyed skull)
 
 Open World Event. Erscheint über einer der Fortress Islands. Bleibt etwa 30 Minuten, falls nicht gestört. Zwölf Skeleton-Wellen, dann drei Skeleton-Captain-Wellen.
 
-#### Fort of Fortune (red-eyed cracked skull) [WE]
+#### Fort of Fortune (red-eyed cracked skull)
 
 Wie Skeleton Fort, nur schwieriger.
 
-#### Skeleton Fleet (green ship) [WE]
+#### Skeleton Fleet (green ship)
 
 Verschwindet nach etwa 30 Minuten, falls nicht aktiviert. Drei Wellen à 1-2 Skeleton Ships, in der letzten Welle gibt's einen Skeleton Captain, dessen Galleone versenkt werden muss.
 
-#### Ashen Winds (red tornado) [WE]
+#### Ashen Winds (red tornado)
 
 Ein Ritual durch Ashen Skeletons ruft einen (von vier) Ashen Lords. Ashen Lords sind wie Skeleton Lords, aber mit Feuer-Thematik.
 
@@ -134,16 +137,16 @@ Teil des WE-Kraken-Zyklus. Greift ein random Schiff auf dem Server an. Loot soll
 
 ### Raids
 
-#### Fort of the Damned (red-eyed skull) [Raid]
+#### Fort of the Damned (red-eyed skull)
 
 Kann jederzeit (und muss) von Spielern aktiviert werden. Zur Aktivierung braucht es alle sechs Flames of Fate und einen Ritual Skull. Während der Raid läuft, gibts Cloud Indication.
 
 ### Emergent Encounters
 
-#### Skeleton Ship [EE]
+#### Skeleton Ship
 
 Gibts als Sloop oder Galleon. Spawnen randomly, fahren durch die Gegend, sind gut zu erkennen. Lassen einen häufig in Ruhe, solange man nicht zu nahe kommt oder angreift. Können kein Wasser eimern!
 
-#### Megalodon [EE]
+#### Megalodon
 
 Tauchen random auf. Gibt fünf unterschiedliche Typen. Leben ist schiffsabhängig. Loot wie bei Skeleton Ships.
