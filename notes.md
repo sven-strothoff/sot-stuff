@@ -23,7 +23,7 @@
 ## Emissary Status
 ### Requirements
 Je Trading Company: Level-15-Promotion, dann kaufbar für 20k. Geht bei diesen TCs:
-* Goald Hoarders
+* Gold Hoarders
 * Order of Souls
 * Merchant Alliance
 * Reaper's Bones
